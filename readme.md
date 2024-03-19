@@ -1,3 +1,5 @@
+### Temporary forked repository created for personal use with support for Laravel 11. May not work correctly or may be missing dependencies. It is recommended not to use.
+
 # Multilingual Country Lists for Laravel
 
 [![Code Coverage](https://scrutinizer-ci.com/g/petercoles/Multilingual-Country-List/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/petercoles/Multilingual-Country-List/?branch=master)
